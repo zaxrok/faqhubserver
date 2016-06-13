@@ -4,7 +4,6 @@ applications:
   - text-to-speech-service
   - speech-to-text-service
   - translation-service
-  - single-sign-on-service
   - cloudant-service
   name: faqhub
   command: node app.js
